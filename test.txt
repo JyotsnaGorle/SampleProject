@@ -2,5 +2,9 @@ my
 name
 is Jyotsna
 
+<<<<<<< HEAD
+Hi my name is Rajashri
+=======
 
 santhosh: its me santhosh, making some changes….
+>>>>>>> bae9bba94f36ec81b8b2dc530bda7f98bff5996b
